@@ -11,7 +11,6 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-css.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-html.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-scss.svg)](https://forthebadge.com) &nbsp;
 ![GitHub Repo stars](https://img.shields.io/github/stars/ManojParkale/Solar-System-Explorer?color=red&logo=github&style=for-the-badge) &nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/ManojParkale/Solar-System-Explorer?color=red&logo=github&style=for-the-badge)
 
