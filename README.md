@@ -36,6 +36,8 @@ This project was built using these technologies.
 
 - HTML
 - CSS3
+- SCSS
+- HAML
 - VsCode
 
 ## Features
